@@ -1,1 +1,1 @@
-web: django_project.wsgi
+web: my_project.wsgi
