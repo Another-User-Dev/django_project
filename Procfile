@@ -1,0 +1,1 @@
+web: gunicorn my-project-hello-world-ci.wsgi
